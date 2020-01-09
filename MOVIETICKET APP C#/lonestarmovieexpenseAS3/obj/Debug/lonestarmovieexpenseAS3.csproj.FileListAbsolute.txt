@@ -1,0 +1,9 @@
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\bin\Debug\lonestarmovieexpenseAS3.exe.config
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\bin\Debug\lonestarmovieexpenseAS3.exe
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\bin\Debug\lonestarmovieexpenseAS3.pdb
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\obj\Debug\lonestarmovieexpenseAS3.Form1.resources
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\obj\Debug\lonestarmovieexpenseAS3.Properties.Resources.resources
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\obj\Debug\lonestarmovieexpenseAS3.csproj.GenerateResource.cache
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\obj\Debug\lonestarmovieexpenseAS3.csproj.CoreCompileInputs.cache
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\obj\Debug\lonestarmovieexpenseAS3.exe
+E:\assin3\lonestarmovieexpenseAS3\lonestarmovieexpenseAS3\obj\Debug\lonestarmovieexpenseAS3.pdb
